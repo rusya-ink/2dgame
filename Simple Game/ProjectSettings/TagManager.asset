@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DeathLine
+  - Gem
+  - Potion
+  - Door
+  - Key
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ForeGround
+  - BaseGround
+  - BackGround
+  - Entity
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 1
+  - name: BackGround
+    uniqueID: 515639801
+    locked: 0
+  - name: Entity
+    uniqueID: 3030116135
+    locked: 0
+  - name: BaseGround
+    uniqueID: 4079553447
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1082266141
+    locked: 0
